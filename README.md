@@ -13,7 +13,8 @@ https://arxiv.org/pdf/hep-ph/0006269.pdf
 2、Monte Carlo方法，和减少方差提高精度的方法。  
 3、生成uniform distribution的方法。  
 4、根据分布生成采样点的方法。  
-
+这是学习Monte Carlo的基本步骤,经典的计算积分的数值方法是Trapezoidal Rule或者Simpson's Rule分别是用梯形区域和多项式积分来拟合求积分的曲线，得出数值解。
+![Trapezoidal Rule](./img/t_rule.png)
 
 
 
